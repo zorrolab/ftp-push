@@ -1,5 +1,5 @@
 # ftp-push
-Node.js module, ftp script with tiny dependencies, use system ftp command, support active mode & passive mode
+Node.js module, a ftp script with tiny dependencies. It use system ftp command, and supports active mode & passive mode
 
 ## Installation
 
@@ -20,7 +20,8 @@ var config = {
     localPath: __dirname,
     remotePath: "/",
     // passive mode
-    passive: true
+    passive: true,
+    ftpCommand: 'ftp'
 };
 
 // promise style
