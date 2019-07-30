@@ -1,7 +1,7 @@
 {
   "name": "ftp-push",
-  "version": "0.0.1",
-  "description": "Node.js module, a ftp script with tiny dependencies. It use system ftp command, and supports active mode & passive mode",
+  "version": "0.0.2",
+  "description": "Node.js module. It depends on the system's ftp command, and can supports active mode & passive mode",
   "main": "src/ftp.js",
   "scripts": {
     "test": " "
