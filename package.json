@@ -1,0 +1,27 @@
+{
+  "name": "ftp-push",
+  "version": "0.0.1",
+  "description": "Node.js module, ftp push script with tiny depends",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zorrolab/ftp-push.git"
+  },
+  "keywords": [
+    "ftp",
+    "node",
+    "node.js"
+  ],
+  "author": "zorro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zorrolab/ftp-push/issues"
+  },
+  "homepage": "https://github.com/zorrolab/ftp-push#readme",
+  "dependencies": {
+    "filewalker": "^0.1.3"
+  }
+}
