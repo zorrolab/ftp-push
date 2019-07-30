@@ -1,8 +1,8 @@
 {
   "name": "ftp-push",
   "version": "0.0.1",
-  "description": "Node.js module, ftp push script with tiny depends",
-  "main": "index.js",
+  "description": "Node.js module, ftp script with tiny dependencies, use system ftp command, support active mode & passive mode",
+  "main": "src/ftp.js",
   "scripts": {
     "test": " "
   },
